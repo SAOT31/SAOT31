@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Sergio Ospina! 💻</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="400" alt="Developer in black hoodie coding" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Coder.gif" width="300" alt="Person Coding Animation" />
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
