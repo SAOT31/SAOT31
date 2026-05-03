@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sergio Ospina! <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZveWVqczNwcHh2bzVwOW56cHUwdThmczJ5NmJyeXg1czdycGhzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="40" style="vertical-align:middle"></h1>
+<h1 align="center">Hi there, I'm Sergio Ospina! <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="40" style="vertical-align:middle"></h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Coder.gif" width="300" alt="Person Coding Animation" />
 </p>
