@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sergio Ospina! 💻</h1>
+<h1 align="center">Hi there, I'm Sergio Ospina! <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZveWVqczNwcHh2bzVwOW56cHUwdThmczJ5NmJyeXg1czdycGhzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="40" style="vertical-align:middle"></h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Coder.gif" width="300" alt="Person Coding Animation" />
 </p>
@@ -60,12 +60,8 @@ When I'm offline, I love discovering new cultures and landscapes. To me, traveli
 </p>
 
 <p align="center">
-<a href="https://github.com/SAOT31/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SAOT31&show_icons=true&hide_border=true" alt="Sergio's GitHub Stats"/>
-</a>
-<a href="https://github.com/SAOT31/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SAOT31&layout=compact&hide_border=true" alt="Top Languages"/>
-</a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SAOT31&show_icons=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SAOT31&layout=compact&hide_border=true" width="41%" />
 </p>
 
 <p align="center">
