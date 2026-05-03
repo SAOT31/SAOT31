@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Sergio Ospina! 👋</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="300" alt="Person Coding Animation" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Coder.gif" width="300" alt="Person Coding Animation" />
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -53,24 +53,13 @@ When I'm offline, I love discovering new cultures and landscapes. To me, traveli
 
 ---
 
-### 📊 GitHub Stats & Streaks
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SAOT31&label=Profile%20Views&color=0077B5&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAOT31&show_icons=true&hide_border=true" alt="Sergio's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAOT31&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SAOT31&show_icons=true&hide_border=true" alt="Sergio's GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SAOT31&layout=compact&hide_border=true" alt="Top Languages"/>
 </p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAOT31/SAOT31/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SAOT31/SAOT31/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SAOT31/SAOT31/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
-
-
