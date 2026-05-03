@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sergio Ospina! 👨‍💻</h1>
+<h1 align="center">Hi there, I'm Sergio Ospina! <img src="https://media.giphy.com/media/WUl296VfXN1K5R05nO/giphy.gif" width="40"></h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Coder.gif" width="300" alt="Person Coding Animation" />
 </p>
@@ -62,4 +62,12 @@ When I'm offline, I love discovering new cultures and landscapes. To me, traveli
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SAOT31&show_icons=true&hide_border=true" alt="Sergio's GitHub Stats"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SAOT31&layout=compact&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAOT31/SAOT31/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SAOT31/SAOT31/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SAOT31/SAOT31/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
