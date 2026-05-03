@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Sergio Ospina! 👋</h1>
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/assets/Coder.gif?raw=true" width="300" alt="Person Coding Animation" />
+  <img src="https://github.com/milanm/milanm/raw/master/img/developer.gif" width="300" alt="Person Coding Animation" />
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -60,8 +60,8 @@ When I'm offline, I love discovering new cultures and landscapes. To me, traveli
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAOT31&show_icons=true&theme=radium&hide_border=true" alt="Sergio's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAOT31&layout=compact&theme=radium&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SAOT31&show_icons=true&theme=tokyonight&hide_border=true" alt="Sergio's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAOT31&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
